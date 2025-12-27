@@ -1,2 +1,2 @@
 My collection of Khan Academy projects.
-Can only be executed on their custom library built on ProcessingJS.
+Can only be executed on Khan Academy's custom library built on ProcessingJS.
